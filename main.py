@@ -9,3 +9,5 @@ app = FastAPI()
 app.include_router(users_router)
 app.include_router(math_operations_router)
 # this is a demo app
+x=1
+y=2
