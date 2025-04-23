@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+loguru
+typing
+pydentic
+pydentic_core
+starlette
